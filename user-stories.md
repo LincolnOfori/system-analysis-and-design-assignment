@@ -1,4 +1,4 @@
-# Patient Care User Stories
+# User Stories
 
 ## User Story 1: View Medical Record
 
