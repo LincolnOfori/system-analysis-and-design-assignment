@@ -56,6 +56,3 @@ flowchart LR
 * Sample
 * Test Result
 
-```
-
-```
